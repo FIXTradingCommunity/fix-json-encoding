@@ -18,8 +18,8 @@ limitations under the License.
 
 ## Examples
 
-- [Go](blob/master/go)
-- [Java](blob/master/java)
-- [Javascript](blob/master/javascript)
-- [Ruby](blob/master/ruby)
+- [Go](go/)
+- [Java](java/)
+- [Javascript](javascript/)
+- [Ruby](ruby/)
 
