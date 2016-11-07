@@ -1,0 +1,91 @@
+
+-----------------
+{
+	"Header": {
+		"BeginString": "FIX.4.2",
+		"BodyLength": "132",
+		"MsgType": "D",
+		"MsgSeqNum": "16",
+		"SenderCompID": "BANZAI",
+		"SendingTime": "20160312-20:00:05.518",
+		"TargetCompID": "EXEC"
+	},
+	"Body":{
+		"ClOrdID": "1457812805394",
+		"HandlInst": "1",
+		"OrderQty": "100",
+		"OrdType": "1",
+		"Side": "1",
+		"Symbol": "VOD.L",
+		"TimeInForce": "0",
+		"TransactTime": "20160312-20:00:05.518"
+	},
+	"Trailer":{
+		"CheckSum": "198"
+	}
+}
+-----------------
+{
+	"Header": {
+		"BeginString": "FIX.4.2",
+		"BodyLength": "74",
+		"MsgType": "A",
+		"MsgSeqNum": "138",
+		"SenderCompID": "FIXIMULATOR",
+		"SendingTime": "20080713-09:54:16.376",
+		"TargetCompID": "BANZAI"
+	},
+	"Body":{
+		"EncryptMethod": "0",
+		"HeartBtInt": "30"
+	},
+	"Trailer":{
+		"CheckSum": "129"
+	}
+}
+-----------------
+{
+	"Header": {
+		"BeginString": "FIX.4.2",
+		"BodyLength": "194",
+		"MsgType": "6",
+		"MsgSeqNum": "141",
+		"SenderCompID": "FIXIMULATOR",
+		"SendingTime": "20080713-09:54:28.295",
+		"TargetCompID": "BANZAI"
+	},
+	"Body":{
+		"Currency": "USD",
+		"IDSource": "5",
+		"IOIid": "I1215942868296",
+		"IOIShares": "61000",
+		"IOITransType": "N",
+		"Price": "27.7884",
+		"SecurityID": "KPA.N",
+		"Side": "2",
+		"Symbol": "KPA",
+		"ValidUntilTime": "20080713-10:24:28.294",
+		"SecurityDesc": "INNKEEPERS USA TRUST",
+		"IOINaturalFlag": "N"
+	},
+	"Trailer":{
+		"CheckSum": "041"
+	}
+}
+-----------------
+{
+	"Header": {
+		"BeginString": "FIX.4.2",
+		"BodyLength": "62",
+		"MsgType": "0",
+		"MsgSeqNum": "139",
+		"SenderCompID": "BANZAI",
+		"SendingTime": "20080713-09:54:46.592",
+		"TargetCompID": "FIXIMULATOR"
+	},
+	"Body":{
+	},
+	"Trailer":{
+		"CheckSum": "088"
+	}
+}
