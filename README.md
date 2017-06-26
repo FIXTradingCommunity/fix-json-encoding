@@ -1,8 +1,14 @@
 # fix-json-encoding
 
+Resources and sample code for JSON encoding of FIX.
+
+## Specification
+
+For the normative specification, see [FIXTradingCommunity/fix-json-encoding-spec](https://github.com/FIXTradingCommunity/fix-json-encoding-spec)
+
 ## License
 
-FIX JSON Encoding is © Copyright 2016 FIX Protocol Limited.
+FIX JSON Encoding is © Copyright 2016-2017 FIX Protocol Limited.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -22,4 +28,5 @@ limitations under the License.
 - [Java](java/)
 - [Javascript](javascript/)
 - [Ruby](ruby/)
+
 
